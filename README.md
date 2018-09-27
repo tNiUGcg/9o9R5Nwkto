@@ -1,1 +1,1 @@
-Test
+write-host "hello"
